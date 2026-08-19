@@ -1,0 +1,14 @@
+# Virtual Environment
+myenv/
+venv/
+
+# VS Code settings & Language server config
+.vscode/
+pyrightconfig.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
